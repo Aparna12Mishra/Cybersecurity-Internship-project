@@ -1,37 +1,45 @@
-# Cyber Security Essential Course - VAPT Report and OWASP Top 10 Documentation
+# Cybersecurity Essentials Course
 
 ## Overview
 
-Welcome to the repository for my 2-month Cyber Security Essential Course, where I delved deep into the world of cybersecurity and explored its various aspects. In this repository, you'll find the results of my Vulnerability Assessment and Penetration Testing (VAPT) on Windows virtual machines, along with documentation on the OWASP Top 10 updates for the year 2021.
+Welcome to the readme file for the Cybersecurity Essentials Course, a comprehensive 2-month program that delves deep into the intricate world of cybersecurity and its various facets. This course has equipped me with valuable insights, practical skills, and hands-on experience to navigate the dynamic landscape of cybersecurity.
 
-## Project 1: VAPT Report
+## Course Highlights
 
-### Description
+Throughout the course, I have immersed myself in various cybersecurity domains, from understanding fundamental concepts to applying advanced techniques. The curriculum emphasized a practical approach, ensuring a robust understanding of the subject matter.
 
-I have prepared a comprehensive VAPT report on the provided Windows virtual machines. This report outlines the vulnerabilities discovered, their potential impact, and recommendations for mitigation.
+## Projects
 
+### Vulnerability Assessment and Penetration Testing (VAPT) Report
 
-## Project 2: OWASP Top 10 Documentation
+As part of the practical application, I have prepared a VAPT report focusing on Windows and virtual machines. This hands-on project allowed me to identify vulnerabilities, assess potential risks, and recommend measures to enhance security.
 
-### Description
+### Documentation Project - OWASP Top 10 (2021)
 
-As part of my coursework, I was assigned to create documentation on the updated OWASP Top 10 for the year 2021. This documentation aims to inform team members about the latest security challenges and changes introduced in this year's list.
+#### Objective
 
+The project required creating a documentation update based on the release of the OWASP Top 10 for the year 2021. The documentation aims to inform team members about the latest security vulnerabilities and changes introduced in the updated list.
 
-### Content Highlights
+#### Approach
 
-- **Introduction:** Brief overview of OWASP and the significance of the Top 10.
-- **Today's Announcement:** Informing team members about the release of the 2021 OWASP Top 10.
-- **Documentation Objective:** Describing the purpose of the documentation.
-- **Security Changes:** Explanation of the security changes introduced in the updated list.
-- **Vector Analysis:** In-depth analysis of each OWASP Top 10 vector with real-world scenarios.
-- **Securing the WWW:** How each security change contributes to enhancing the security of the World Wide Web.
+1. **Introduction to the 2021 OWASP Top 10 Release:**
+   - Communicate the release of the 2021 OWASP Top 10 to team members.
+   - Emphasize the importance of staying informed about the evolving threat landscape.
 
-**Note:** For security reasons, sensitive details and specific vulnerabilities are not included in this public repository.
+2. **Security Changes Introduced:**
+   - Provide a detailed explanation of each security vector, covering real-world scenarios.
+   - Illustrate the potential impact of each vector on the security of the World Wide Web (WWW).
 
-## How to Use
+3. **Real-world Scenarios:**
+   - Explore practical examples to demonstrate how the updated list addresses current cyber threats.
+   - Include case studies to enhance understanding and applicability.
 
-- Download the PDF files from respository
+4. **Securing the WWW:**
+   - Highlight the significance of the updated OWASP Top 10 in enhancing the overall security of the WWW.
+   - Discuss preventive measures and best practices to secure web applications against common vulnerabilities.
 
-Feel free to reach out for any questions or further discussions.
+## Conclusion
 
+The Cybersecurity Essentials Course has been an enriching journey, providing me with a solid foundation in cybersecurity. The hands-on projects, including the VAPT report and OWASP Top 10 documentation, have allowed me to apply theoretical knowledge to real-world scenarios. I am confident that the skills acquired during this course will contribute to my success in the field of cybersecurity.
+
+Feel free to reach out for further discussions or inquiries.
