@@ -35,7 +35,7 @@ The project required creating a documentation update based on the release of the
    - Include case studies to enhance understanding and applicability.
 
 4. **Securing the WWW:**
-   - Highlight the significance of the updated OWASP Top 10 in enhancing the overall security of the WWW.
+   - Highlight the significance of the updated OWASP Top 10 in enhancing the overall security of the World Wide Web.
    - Discuss preventive measures and best practices to secure web applications against common vulnerabilities.
 
 ## Conclusion
