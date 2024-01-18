@@ -28,7 +28,7 @@ The project required creating a documentation update based on the release of the
 
 2. **Security Changes Introduced:**
    - Provide a detailed explanation of each security vector, covering real-world scenarios.
-   - Illustrate the potential impact of each vector on the security of the World Wide Web (WWW).
+   - Illustrate the potential impact of each vector on the security of the World Wide Web.
 
 3. **Real-world Scenarios:**
    - Explore practical examples to demonstrate how the updated list addresses current cyber threats.
